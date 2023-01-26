@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* header style */
+.nav-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 50px 60px 0px 60px;
+
+
+}
+
+.nav-subtitle {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 28px;
+
+    text-align: center;
+    color: #8f8989;
+    padding: 10px 220px;
+}
+
+.bigimage {
+    background: rgba(0, 0, 0, 0.7);
+    background-image: url('../images/donation6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+    background-blend-mode: darken;
+
+
+}
+
+/* bottion */
+
+.btn-primary {
+    height: 30px;
+    border-radius: 5px;
+    background: #e71f30;
+    font-weight: 100px;
+    font-size: 10px;
+
+    color: #FFFFFF;
+    border: 0px;
+    padding: 5px 10px;
+    margin: auto;
+    display: block;
+
+}
+
+/*  main section style  */
+.section-title {
+    text-align: center;
+    margin: auto;
+    padding: 30px 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+
+
+}
+
+.about {}
+
+.section-subtitle {
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #707070;
+    margin-bottom: 20px;
+
+
+}
+
+.taka {
+
+    width: 80px;
+    height: 30px;
+    left: 338px;
+    top: 979px;
+
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 40px 25px;
+    font-size: larger;
+    color: #707070;
+    margin-top: 30px;
+
+}
+
+.money {
+    display: flex;
+    padding: 20px 30px;
+    gap: 20px;
+    text-align: center;
+    margin-left: 30px;
+
+}
+
+.taka1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #B3B3B3;
+
+}
+
+hr {
+    width: 700px;
+    height: 0px;
+    margin-left: 65px;
+    border: 1px solid #474040;
+    margin-bottom: 20px;
+}
+
+/* our donation */
+skill{
+
+width: 500px;
+height: 500px;
+color:#474040;
+border-radius: 5px;
+
+/* background: #FFFFFF; */
+/* box-shadow: 0px 6px 50px rgba(130, 13, 13, 0.06); */
+border-radius: 5px;
+box-sizing: border-box;
+
+}
+
+.food-container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-left: 30px;
+    
+}
+.food1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+
+
+}
+
+.food2{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+
+color: #707070;
+}
+
+img{
+    margin-top: 20px;
+}
+
+/* picure */
+
+
+.picture1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 1000;
+font-size: 22px;
+/* line-height: 0px; */
+
+color: #121212;
+margin-top: 20px;
+
+
+}
+.picture2{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 00;
+font-size: 12px;
+line-height: 15px;
+margin-top:20px
+;
+/* or 156% */
+
+
+color: #707070;
+}
+
+.picture{
+    /* margin: 20px 220px 20px 10px ; */
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+    margin: 20px 60px;
+    
+    
+}
+.image1{
+
+width: 380px;
+height: 350px;
+margin-right: 20px;
+
+}
+
+.btn-second{
+
+    height: 30px;
+    border-radius: 5px;
+    background: #e71f30;
+    font-weight: 100px;
+    font-size: 10px;
+
+    color: #FFFFFF;
+    border: 0px;
+    padding: 5px 10px;
+    margin: left;
+    display: block;
+    margin-top: 20px;
+    
+}
+.images{
+    margin: 50px 60px;
+}
+
+/* text arear */
+.updates{
+    /* text-align: center; */
+    /* position: absolute; */
+width: 600px;
+height: 150px;
+/* left: 316px; */
+/* top: 3442px */
+margin-left:  120px;
+
+background: #FFF4D6;
+border: none;
+
+}
+.Subscribe{
+    height: 20px;
+    border-radius: 5px;
+    background: #e71f30;
+    font-weight: 100px;
+    font-size: 10px;
+
+    color: #FFFFFF;
+    border: 0px;
+    padding: 5px 10px;
+    margin: auto;
+    display: block;
+    margin-top: 0px;
+    margin: bottom 90px;;
+    
+
+}
+input{
+    margin-left: 90px  ;
+    margin-top: 90px;
+    border: none    ;
+
+
+}
+
+/* fotter */
+.Humble{
+    
+font-family: 'Lobster';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 44px;  
+
+color: #FF5959;
+
+}
+
+footer{
+    left: 0%;
+right: 0%;
+top: 97.52%;
+bottom: 0%;
+
+
+/* Default / Black */
+
+background: #0B0D17;
+margin-top: 60px;
+text-align: center;
+}
